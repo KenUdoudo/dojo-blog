@@ -4,7 +4,7 @@ const Home = () => {
  const [name, setName] = useState('mario');
 
 const handleClick = () => {
-  setName('luigi')
+  setName('luigi');
 }
 
   return (
